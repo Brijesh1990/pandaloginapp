@@ -122,6 +122,7 @@ transition:0.3s;
 .whatsapp-float img{
 width:35px;
 height:35px;
+animation: 2s ease bounce fadeIn !important;
 }
 
 .whatsapp-float:hover{
@@ -163,5 +164,6 @@ right:20px;
 .whatsapp-float img{
 width:30px;
 }
+
 
 }
